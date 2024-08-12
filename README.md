@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Dhruval Vaidya 
-- 👀 I’m interested in PLC Programming,IoT,Home & Industrial Automation, Robotics, Embedded Systems and much more....
-- 🌱 I’m currently learning Python & DSA
-- 💞️ I’m looking to collaborate on any automation PLC project or ADAS System development..
-- 📫 Ping me a message on Insta @tycoon_1029
